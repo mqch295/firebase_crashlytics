@@ -1,0 +1,1 @@
+../../darwin/Classes/FirebaseCrashlyticsPlugin.m
